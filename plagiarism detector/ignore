@@ -1,0 +1,2 @@
+g++ src\main.cpp src\file_reader.cpp src\text_processor.cpp src\similarity.cpp -I include -o detector
+.\detector.exe
